@@ -23,3 +23,5 @@ git log -> lister les commits
 git branch -> lister les branch
 git branch nom -> créer une branch
 git checkout nom -> changer de branch
+git pull -> récupérer des MàJ
+git merge nom_de_la_branch -> fusionne la branche sur celle actuel
