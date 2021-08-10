@@ -17,3 +17,5 @@ git commit -m "nom" -> créer un commit (une version)
 git push -> envoyer cette version
 git status -> afficher le statut de la branche actuelle
 git clone -> cloner un projet
+git reset --hard HEAD -> revenir au dernier commit
+git log -> lister les commits
