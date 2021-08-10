@@ -7,6 +7,7 @@ cd .. -> revenir en arrière
 mkdir -> créer un répertoire
 touch -> créer un fichier
 pwd -> affiche le chemin d'emplacement
+rm (-rf) -> supprimer
 
 // COMMANDES GIT
 
@@ -15,3 +16,4 @@ git add . -> ajouter tous les fichiers/dossiers au répertoire
 git commit -m "nom" -> créer un commit (une version)
 git push -> envoyer cette version
 git status -> afficher le statut de la branche actuelle
+git clone -> cloner un projet
