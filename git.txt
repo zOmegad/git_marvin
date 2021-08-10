@@ -1,3 +1,5 @@
+// COMMANDES SYSTEME
+
 ls -> lister le répertoire
 ls -la -> lister en plus les fichiers/dossiers cachés
 cd -> changer de répertoire
@@ -5,3 +7,11 @@ cd .. -> revenir en arrière
 mkdir -> créer un répertoire
 touch -> créer un fichier
 pwd -> affiche le chemin d'emplacement
+
+// COMMANDES GIT
+
+git init -> initialise le répertoire GIT
+git add . -> ajouter tous les fichiers/dossiers au répertoire
+git commit -m "nom" -> créer un commit (une version)
+git push -> envoyer cette version
+git status -> afficher le statut de la branche actuelle
