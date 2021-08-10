@@ -1,0 +1,7 @@
+ls -> lister le répertoire
+ls -la -> lister en plus les fichiers/dossiers cachés
+cd -> changer de répertoire
+cd .. -> revenir en arrière
+mkdir -> créer un répertoire
+touch -> créer un fichier
+pwd -> affiche le chemin d'emplacement
